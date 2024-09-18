@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'madinah';
+    src: url('fonts/Madinah\ Authentic.otf') format('opentype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'vogue';
+    src: url('fonts/Vogue.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
